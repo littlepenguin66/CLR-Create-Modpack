@@ -1,8 +1,6 @@
 
-# CLR Create Modpack
-This modpack is centered around the **Create mod**, adding more *decorative blocks* and the **Chisel mod**, while also improving the *vanilla terrain*. With a carefully curated selection of mods, you can experience the romance of **powerful machinery** while still enjoying the core Minecraft gameplay.
-
-<center>
+# CLR Create Modpack 📦
+This modpack is centered around the **Create mod** 🛠️, adding more *decorative blocks* 🎨 and the **Chisel mod** 🗿, while also improving the *vanilla terrain* 🌍. With a carefully curated selection of mods, you can experience the romance of **powerful machinery** 💪 while still enjoying the core Minecraft gameplay 🎮.
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://kook.top/JWqTrY" style="border-radius: 8px; overflow: hidden; display: inline-block; vertical-align: top;">
@@ -20,70 +18,153 @@ This modpack is centered around the **Create mod**, adding more *decorative bloc
     <img src="https://clrclrserver.files.wordpress.com/2023/10/clrcraft.png?w=1024" alt="clrserver" style="border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
 </a>
 
+## Create Mod Series
 
-</center>
+### Creating a New Experience
 
-## Create Mod & Addition
-### Create
-The **Create** series mods offer you a *brand new gaming experience*, enriched with a variety of **mechanical devices** and **architectural structures**, bringing unprecedented creativity and imagination to Minecraft. These mods provide you with various mechanical devices such as `steam trains`, `jetpacks`, and `copy machines`, allowing you to create your own **mechanical empire**.
+The **Create Mod Series** brings you an unprecedented gaming experience. The rich **mechanical devices** and **architectural structures** will bring endless creativity and imagination to "Minecraft". These mods provide various mechanical devices, such as `steam trains`, `jetpacks`, and `copy machines`, allowing you to build your own **mechanical empire**.
 
-<div style="text-align: center;">
-    <img src="https://i.mcmod.cn/editor/upload/20220904/1662262119_216326_xMLH.webp" alt="Create">
+<div style="text-align: center; margin: 20px 0;">
+        <img src="https://i.mcmod.cn/editor/upload/20220904/1662262119_216326_xMLH.webp" alt="Create Mod" style="max-width: 100%; height: auto;">
 </div>
 
-### Main Create Mods
-- **Create: Steam 'n' Rails**: *Adds a steam locomotive system to the game.*
-- **Create Enchantment Industry Fabric**: *Expands the enchantment system of Create.*
-- **Create: Bells & Whistles**: *Adds various novel gadgets and features.*
-- **Create: Ultimate Factory**: *Provides advanced automated manufacturing equipment.*
-- **Create Ore Excavation**: *Used for large-scale ore mining.*
-- **Create: New Age**: *Introduces new game mechanics and content.*
-- **Create: Garnished**: *Adds various decorative blocks and structures to Create.*
-- **Create: Oxidized**: *Expands the oxidation system of Create.*
-- **Create Jetpack**: *Allows players to craft jetpacks.*
-- **Create: Copycats+**: *Adds a duplication machine to copy blocks and items.*
-- **Create Deco**: *Offers various decorative blocks and structures.*
-- **CreateTweaker**: *Used to adjust various settings in Create.*
+### 主要创建模块
 
-![Copy Cats+](https://cdn.modrinth.com/data/UT2M39wf/images/e20c128b7c0e000e904584811d20f753d846af80.png)
+- **Create: Steam 'n' Rails**🚂 
+    - *Adds a steam locomotive system to the game.*
 
+- **Create Enchantment Industry Fabric**✨
+    - *Expands the enchantment system of Create.*
 
-## Performance
-This modpack integrates multiple mods specifically designed to optimize Minecraft's performance, aiming to `improve game smoothness`, `reduce latency`, `improve loading times`, etc., to provide you with a smoother and more stable gaming experience.
+- **Create: Bells & Whistles**🎁 
+    - *Adds various novel gadgets and features.*
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/IrisShaders/Iris/trunk/docs/banner.png" alt="Iris">
+- **Create: Ultimate Factory**🏭 
+    - *Provides advanced automated manufacturing equipment.*
+
+- **Create Ore Excavation**⛏️ 
+    - *For large-scale ore mining.*
+
+- **Create: New Age**🌐 
+    - *Introduces new game mechanics and content.*
+
+- **Create: Garnished**🎨 
+    - *Adds various decorative blocks and structures.*
+
+- **Create: Oxidized**🧪 
+    - *Expands the oxidation system of Create.*
+
+- **Create Jetpack**🚀 
+    - *Allows players to make jetpacks.*
+
+- **Create: Copycats+**📠 
+    - *Adds a copy machine for duplicating blocks and items.*
+
+- **Create Deco**🖼️ 
+    - *Provides various decorative blocks and structures.*
+
+- **CreateTweaker**⚙️ 
+    - *Used to adjust various settings in Create.*
+
+<div style="text-align: center; margin: 20px 0;">
+    <img src="https://cdn.modrinth.com/data/UT2M39wf/images/e20c128b7c0e000e904584811d20f753d846af80.png" alt="Copy Cats+" style="max-width: 50%; height: auto;">
 </div>
 
-### Included Optimization Mods
-- **Lithium (Fabric)**: *Significantly reduces latency and greatly improves frame rate*.
-- **FerriteCore (Fabric)**: *Optimizes packet processing, improving server response speed*.
-- **Sodium**: *Provides rendering optimizations, enhancing game graphics and performance*.
-- **Sodium Extra**: *Provides additional optimizations for Sodium, further enhancing performance*.
-- **Chunky (Fabric)**: *Optimizes chunk loading, reducing stutter and latency*.
-- **ModernFix**: *Optimizes server performance, improving the gaming experience*.
-- **Server Performance - Smooth Chunk Save[Forge/Fabric]**: *Smoothly saves chunk data, reducing server stutter*.
-- **Server Country Flags**: *Optimizes server performance, improving response speed*.
-- **Memory Settings[Forge/Fabric]**: *Adjusts memory settings, improving game stability*.
-- **Entity Culling Fabric/Forge**: *Reduces entity count, enhancing game performance*.
-- **Noisium**: *Reduces server stutter, improving game smoothness*.
-- **Packet Fixer**: *Optimizes packet processing, reducing latency*.
-- **Chunk Sending[Forge/Fabric]**: *Optimizes chunk sending, enhancing game performance*.
-- **Better Statistics Screen**: *Optimizes the statistics interface, improving the gaming experience*.
+## Performance Optimization 🚀
 
-## Distant Horizons
-Distant Horizons is a mod focused on optimizing the rendering distance in Minecraft. By introducing Level of Detail (LOD) technology, it provides players with a farther rendering distance and clearer distant view, while maintaining good performance.
-### Main Features
+This modpack integrates several mods specifically designed to optimize the performance of "Minecraft", aiming to `improve game smoothness`, `reduce latency`, `increase loading speed`, etc., to provide you with a smoother and more stable gaming experience.
 
-- **Long-distance Rendering Optimization**: Through LOD technology, objects at a distance can maintain clarity without excessively consuming performance.
-- **Balance between Performance and Quality**: Provides multiple configuration options, allowing players to find a balance between performance and quality according to their needs.
-- **Multi-resolution Support**: Adapts to various screen resolutions, ensuring players with different hardware can have a good experience.
-![Extra long viewing distance](https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi_webp%2F_04BZ8W2bDM%2Fmaxresdefault.webp&n=-1)
+### Included Performance Optimization Mods 🛠️
 
-## Voice Chat
-VoiceChat is a cutting-edge voice communication mod designed to enhance the multiplayer experience in Minecraft. This mod allows players to easily communicate with each other in real-time using voice chat, fostering a more immersive and interactive gaming environment.
-### Key Features
-- **Crystal Clear Audio Quality**: Enjoy high-definition voice chat with low latency, ensuring smooth and uninterrupted communication.
-- **User-Friendly Interface**: The mod provides a straightforward and intuitive interface, allowing players to easily adjust settings and manage voice chat preferences.
-- **Privacy and Security**: VoiceChat prioritizes user privacy and security, offering options to mute or deafen other players, as well as server-wide push-to-talk functionality.
+- **Lithium** 💎
+    - *Significantly reduces latency and greatly improves frame rate.*
 
+- **FerriteCore** 🧲
+    - *Optimizes packet processing, improving server response speed.*
+
+- **Sodium** 🧪
+    - *Provides rendering optimization, enhancing game graphics and performance.*
+
+- **Sodium Extra** 🧪💡
+    - *Provides additional optimizations for Sodium, further improving performance.*
+
+- **Chunky** 🧱
+    - *Optimizes chunk loading, reducing stutter and latency.*
+
+- **ModernFix** 🛠️🔄
+    - *Optimizes server performance, enhancing the gaming experience.*
+
+- **Server Performance - Smooth Chunk Save** 💾
+    - *Smoothly saves chunk data, reducing server stutter.*
+
+- **Server Country Flags** 🌐
+    - *Optimizes server performance, improving response speed.*
+
+- **Memory Settings** 🧠
+    - *Adjusts memory settings, improving game stability.*
+
+- **Entity Culling Fabric/Forge** 👾
+    - *Reduces the number of entities, enhancing game performance.*
+
+- **Noisium** 🔇
+    - *Reduces server stutter, improving game smoothness.*
+
+- **Packet Fixer** 📦
+    - *Optimizes packet processing, reducing latency.*
+
+- **Chunk Sending** 📤
+    - *Optimizes chunk sending, enhancing game performance.*
+
+- **Better Statistics Screen** 📊
+    - *Optimizes the statistics interface, enhancing the gaming experience.*
+
+## Distant Horizons 🌅
+
+Distant Horizons is a mod focused on optimizing the render distance in "Minecraft". By introducing Level of Detail (LOD) technology, it provides players with a farther render distance and clearer distant views, while maintaining good performance.
+
+### Main Features 🌟
+
+- **Long Distance Rendering Optimization** 🌄
+    - With LOD technology, distant objects can remain clear without excessively consuming performance.
+
+- **Balance Between Performance and Quality** ⚖️
+    - Provides multiple configuration options, allowing players to find a balance between performance and quality according to their needs.
+
+- **Multi-Performance Support** 💻
+    - Adapts to computers of various performances, ensuring that players with different hardware can have a good experience.
+
+## Voice Chat 🎙️
+
+VoiceChat is a cutting-edge voice communication mod, aimed at enhancing the multiplayer gaming experience in "Minecraft". This mod allows players to easily use voice chat for real-time communication, creating a more immersive and interactive gaming environment.
+
+### Key Features 🌈
+
+- **Clear Audio Quality** 🔊
+    - Enjoy low-latency HD voice chat, ensuring smooth and uninterrupted communication.
+
+- **User-Friendly Interface** 👥
+    - The mod provides a simple and intuitive interface, allowing players to easily adjust settings and manage voice chat preferences.
+
+- **Privacy and Security** 🔒
+    - VoiceChat prioritizes user privacy and security, providing options to mute or deafen other players, as well as a push-to-talk feature for the entire server.
+
+## Installation and Usage 📥
+
+Please follow these steps to install and use this modpack:
+
+1. Download the modpack from the release.
+2. Install the modpack using your preferred Minecraft launcher.
+3. Enjoy the game! 🎮
+
+## Contributing 🤝
+
+We welcome contributions from the community. If you would like to contribute, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them to your branch.
+4. Submit a pull request with your changes.
+
+## Contact 📧
+
+If you have any questions or feedback, please feel free to contact me at [email](littlepenguinzq@gmail.com).
