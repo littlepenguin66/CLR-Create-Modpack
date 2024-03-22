@@ -8,7 +8,7 @@ This modpack is centered around the **Create mod**, adding more *decorative bloc
     <a href="https://kook.top/JWqTrY" style="border-radius: 8px; overflow: hidden; display: inline-block; vertical-align: top;">
         <img src="https://img.shields.io/badge/%20KOOK-007BFF?style=for-the-badge&logo=minutemailer&logoWidth=20" alt="CLR Kook" style="border-radius: 8px;">
     </a>
-    <a href="https://discord.gg/28RzcqZ" style="border-radius: 8px; overflow: hidden; display: inline-block; vertical-align: top; margin-left: 10px;">
+    <a href="https://discord.gg/Drx7eXh7" style="border-radius: 8px; overflow: hidden; display: inline-block; vertical-align: top; margin-left: 10px;">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20" alt="Discord" style="border-radius: 8px;">
     </a>
     <a href="https://github.com/littlepenguin66" style="border-radius: 8px; overflow: hidden; display: inline-block; margin-left: 10px; vertical-align: top;">
