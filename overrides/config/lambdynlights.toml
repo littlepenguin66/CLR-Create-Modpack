@@ -61,4 +61,5 @@ mode = "fancy"
 				item_frame = true
 				leash_knot = true
 				boat = true
+				parrot = true
 

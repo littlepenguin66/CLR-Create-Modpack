@@ -545,6 +545,61 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": true
+    },
+    "mcwholidays:yellow_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "vinery:cherry_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "mcwholidays:snowy_spruce_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "mcwholidays:mixed_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "mcwholidays:red_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "mcwholidays:orange_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "beachparty:palm_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "mcwholidays:snowy_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "vinery:apple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "vinery:grapevine_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "mcwholidays:brown_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
     }
   },
   "leafSpawners": [],
